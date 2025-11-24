@@ -2,10 +2,13 @@
 
 This repository enforces safe I/O rules so that **input files are never overwritten**.
 
+It does not contain the '**historical_data.csv**'(45.3MB) file as GitHub supports maximum file size of 25MB, nevertheless the file does exist in the Google Colab Sheet
+Link to the Sheet : 
+
 ## Structure
 
 ```
-DS_AyushmaanSinha/
+Web3DS_AyushmaanSinha/
 ├── csv_files/           <-- contains input CSVs and generated CSV outputs (no overwrites)
 ├── outputs/             <-- contains generated image outputs (PNGs)
 ├── notebooks/
