@@ -21,6 +21,6 @@ DS_AyushmaanSinha/
 
 ## How to run in Colab
 1. Upload your input CSVs into `/content/csv_files/` (create the folder in the Files pane).
-2. Open `notebooks/ds_candidate_colab_safe_io.ipynb`.
+2. Open `notebooks/ds_AyushmaanSinha.ipynb`.
 3. Run all cells.
 4. Download outputs from `/content/csv_files/` (generated CSVs) and `/content/outputs/` (images).
